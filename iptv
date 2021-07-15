@@ -104,7 +104,7 @@ https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BMug1gS.png",Đồng  tháp
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9Yp8PJZ/DONGTHAP2-BEARTV.png", Đồng Tháp 2 - Miền Tây
 http://202.43.109.142:1935/THDT/thdttv/chunklist_w972702047.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://lh3.googleusercontent.com/proxy/Onx0bWO75yv2YtgzqH96xPvRUf9WP9x_w6V3a5OF49JjN62PSbfvlAv_IAjZRdzzdl897BNigGn6vpisXmJRE3MQ-GxID5rES7e7mJ2WOLytuIIOXY0ROaDSW4CBsnxKnLY6O6kl3G9aIGp4U_EmT6i7pM1r4BN7fL6FRf1hOArpTsAMuGN0NnUw1nPe",Đồng Tháp  2 HD
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1855427267.m3u8
@@ -356,5 +356,5 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:0 group-title="nước ngoài " tvg-logo="https://logodix.com/logo/1075337.png", FiLMP
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
-#EXTINF:0 group-title="nước ngoài " tvg-logo="https://cdn-img.thethao247.vn/upload/namkhanh9/2018/08/10/tai-sao-boxing-la-lua-chon-hang-dau-cua-mot-nguoi-moi-tap-vo1533865370.",KÊNH BOX XINH
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://logopond.com/logos/1f8a86c11b5c49c8bb90a218b4a2e3cb.png", KÊNH BOXING
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
