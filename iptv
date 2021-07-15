@@ -200,7 +200,7 @@ http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pJf7bLK/bacninhhd.png",Bắc Ninh HD
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-#EXTINF:-1 " ,Thai Binh#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png" ,Thái Bình
+#EXTINF:-1 " ,Thai Binh#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_TBTV_Th%C3%A1i_B%C3%ACnh_HD_2017.png/1200px-Logo_TBTV_Th%C3%A1i_B%C3%ACnh_HD_2017." ,Thái Bình
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/nQmjGXF/VINHPHUC-BEARTV.png", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
@@ -214,9 +214,6 @@ http://113.162.84.113:8080/hls/fm/index.m3u8
 http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png ",ninh bình HD
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/s08I14p.png",Thanh Hóa
-https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/mrjkBtpp/3-nghean-hd.png",Nghệ An HD
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vAcHiv3.png",Hà Tĩnh HD
