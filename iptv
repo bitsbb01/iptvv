@@ -245,7 +245,6 @@ http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hoà HD
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vNgKLRe.png",Gia Lai
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/M15qNZ0.png",Đắk Lắk
