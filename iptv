@@ -2,7 +2,7 @@
 
 #EXTINF: VOPHU - Luôn cập nhật kênh ổn định
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static-stage.tv24.vn/channel/41/logo26072108_vtv1-hd.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/qydewGA.png", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png",VTV2  HD
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
@@ -311,7 +311,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
 acc=vaythivayhan&time=1554702727&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&pass=xemmong
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/VTVCab_4.png/revision/latest/scale-to-width-down/250?cb=20200206041235 ",VTVCAP 4
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://lh3.googleusercontent.com/proxy/jSUFLheFlwB-Q4c0c0ii3n7VT1f_YvBQr6isxmNA2VVpKDH4QJihBapHGmc5ox8y3FpKPDYy9xTCztpZccm_dDC2Rw4ls2E0gLCgnKouH48JveATNYgvdUhzQ5_trHL9JuKMqaIa9OYKa19-1v5_tjk ",VTVCAP 6
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.imgur.com/2IgWN7Y.png", VTVCab 6 - Hay TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg ",VTVCAP 7
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
@@ -319,7 +319,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_styletv.png ",VTVCAP 12
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://lh3.googleusercontent.com/proxy/03srrwCAMvy4uWV878fgGJwNWDms9Z5epwiFSa3XI12yI3n1EdCVdyD06KmI4o0NCsti9Od0Lj3ciiE7BE88Pd4r-j9A8EGbHspVUfEtbIl6dqfP6s2RAMhW6C2sOO6RRQ4fRAh_BkxgopXPodvRHyc ",VTVCAP 19
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.imgur.com/UpkkPnn.png", VTVCab 19 - Kênh Phim
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VTVCab_20.png/revision/latest?cb=20200206041357 ",VTVCAP 20
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3U8
@@ -331,7 +331,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?t
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/chunks.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/10/aniumal-2-3.jpg ",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/320px-Discovery_Asia_logo.svg.png ",Discovery Asia
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/eNPI6Bd.png", Discovery Châu Á HD
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://banner2.cleanpng.com/20180802/rtl/kisspng-logo-boomerang-television-channel-high-definition-file-boomerang-hd-png-tvcl-tv-channel-lists-5b6379a905e444.1540880715332458650241.jpg ",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -347,7 +347,7 @@ https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" ,FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.kindpng.com/picc/m/244-2444297_fox-sports-logo-png-transparent-png.png", FOX SPORT HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/XseLDOP.png", FOX Sports HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://p.kindpng.com/picc/s/23-236576_fox-sports-2-hd-png-download.png", FOX SPORT 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
@@ -357,7 +357,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lh3.googleusercontent.com/proxy/RZuVfywssUruLIjvlELg16rT4pPVhsNT7b_NyVx6BiM-sBYhrsNU7AuFzXfNrETN6DRe7NlmgugvDkSX_gQrmsBy4walCptxloBCracfRBN5tLRkp0j9",PHIM HONG KONG
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png", phim hồng kong
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:0 group-title="nước ngoài " tvg-logo="https://logodix.com/logo/1075337.png", FiLMP
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
