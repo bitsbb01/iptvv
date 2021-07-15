@@ -250,66 +250,65 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1270205647_b1384000.m3u
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/M15qNZ0.png",Đắk Lắk
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1",SCTV HD
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png", SCTV HD Phim Tổng Hợp
 http://s4live.tv1asia.com:21585/sctvpth/tracks-v1a1/mono.m3u8?acc=vaythivayhan&time=1554702727&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&pass=xemmong
-#EXTINF:-1 ", SCTV1 HD
+#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 HD - Hài
 https://vtsstr1.tv24.vn/live/SCTV_HD_Hai_new.smil/chunklist.m3u8?uid=beartv&tokenhash=linkngon
-#EXTINF:-1", SCTV2 HD
+#EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png", SCTV2 HD - AMC
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=?byhthanh
-#EXTINF:-1",SCTV3 HD
+#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png", SCTV3 HD - See TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) (byiptv247T) AppleWebKit/537.36 
 http://vtsstr6.tv24.vn:1935/live/SCTVHDThieunhi_4/playlist.m3u8
-#EXTINF:-1", SCTV4 HD
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV 4 HD - Giải Trí
 https://vtsstr6.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1",SCTV5 HD
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png ",SCTV5 HD
 https://vtsstr3.tv24.vn/elive/_definst_/SCTV5_SD_Sh.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&coca
-#EXTINF:-1 ",SCTV6 HD
+#EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
 https://vtsstr6.tv24.vn/live/SCTV6HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1",SCTV7 HD
+#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png", SCTV7 HD - SHOW
 https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1",SCTV8 HD
+#EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", SCTV8 HD - VITV
 http://112.197.12.54/hls/sctv8/sd1/index.m3u8
-#EXTINF:0",SCTV9 HD
+#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 - Phim TVB
 http://51.210.99.3:21585/sctv9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ",SCTV10 HD
+#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127 ",SCTV10 HD
 http://vtsstr6.tv24.vn:1935/live/sctv10_SD_4/playlist.m3u8
-#EXTINF:-1",SCTV11 HD
+#EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 HD - TV STAR
 http://112.197.12.54/hls/sctv11/sd1/index.m3u8?acc=vaythivayhan&time=1554702727&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&pass=xemmong
-#EXTINF:-1 ",SCTV12 HD
+#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", SCTV12 HD - Du Lịch
 http://112.197.12.54/hls/sctv12/sd1/index.m3u8
-#EXTINF:-1",SCTV13 HD
+#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png", SCTV13 HD - Lady TV
 http://vtsstr1.tv24.vn:1935/live/SCTVHDPhunuGiadinh_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
-#EXTINF:-1",SCTV14 HD
+#EXTINF:-1 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://i.ibb.co/0YtfJK8/SCTV14-BEARTV.png", SCTV14 HD - Kênh Phim Việt
 http://112.197.12.54/hls/sctv14/sd1/index.m3u8
-#EXTINF:-1",SCTV15 HD
+#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.png", SCTV15 HD - Ssport 2
 http://112.197.12.54/hls/sctv15/sd1/index.m3u8?token=Z2bssiavjHfX_oHKW8Oq7A&time=1625120587
-#EXTINF:-1",SCTV16 HD
+#EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", SCTV16 HD - Phim Nước Ngoài Đặc Sắc (Fox Action Movies)
 http://112.197.12.54/hls/sctv16/sd1/index.m3u8
-#EXTINF:-1",SCTV17 HD
+#EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png", SCTV17 HD - Ssport
 http://112.197.12.54/hls/sctv17/sd1/index.m3u8
-#EXTINF:-1",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18 HD - Kênh 18
 https://vtsstr3.tv24.vn/elive1/SCTV18_HD_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&beartv&tokenhash=linkngon
-#EXTINF:-1",SCTV19 HD
+#EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png", SCTV19 HD - Channel T
 https://vtsstr6.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1",SCTV20 HD
-https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
-#EXTINF:-1",SCTV21 HD
+#EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20 HD - Ca Nhạc
+https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY
+#EXTINF:-1 tvg-id="SCTV21" group-title="SCTV" tvg-logo="https://i.upanh.org/2020/09/14/SCTV21.png ",SCTV21 HD
 http://112.197.12.54/hls/sctv21/sd1/index.m3u8
-#EXTINF:-1",SCTV22 HD
+#EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
 http://112.197.12.54/hls/sctv22/sd1/index.m3u8
-
-#EXTINF:0"",HAPPY  KiDS
+#EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
-#EXTINF:0",VTVCAb GIAI TRi
+#EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Vtvcab1.png/revision/latest/scale-to-width-down/220?cb=20161213095407",GẢI TRÍ 
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb8 BiBi TV
+#EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_bibitv.png ",BIBI
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
 acc=vaythivayhan&time=1554702727&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&pass=xemmong
-#EXTINF:0",VTVCAb4
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/VTVCab_4.png/revision/latest/scale-to-width-down/250?cb=20200206041235 ",VTVCAP 4
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb6 hay tv
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://lh3.googleusercontent.com/proxy/jSUFLheFlwB-Q4c0c0ii3n7VT1f_YvBQr6isxmNA2VVpKDH4QJihBapHGmc5ox8y3FpKPDYy9xTCztpZccm_dDC2Rw4ls2E0gLCgnKouH48JveATNYgvdUhzQ5_trHL9JuKMqaIa9OYKa19-1v5_tjk ",VTVCAP 6
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb7 Dramas tv
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg ",VTVCAP 7
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0",VTVCAb9 INFO TV
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
