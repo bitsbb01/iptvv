@@ -298,9 +298,9 @@ http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 http://112.197.12.54/hls/sctv22/sd1/index
 #EXTINF:0 group-title="VTVCAP" tvg-logo="http://img.hplus.com.vn/728x409/banner/2019/07/10/545830-the_thao_tv.png",THỂ THAO TV
 http://112.197.12.59/hls/vtvcab3/index.m3u8?token=T90fP8B7Ibfmf1eClI7Blg&time=1626345607
-#EXTINF:-1 tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+1-hd.png",K+1 HD
+#EXTINF:0 group-title="VTVCAP" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2019/04/K1_HD-300x184-300x184.png", K+1
 http://51.210.99.3:21585/kplus2/index.m3u8
-#EXTINF:-1  tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+ns-hd.png",K+NS HD
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/K%2BNS_HD.png/248px-K%2BNS_HD.png", k+ nhịp sống
 http://51.210.99.3:21585/kns2/index.m3u8
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
