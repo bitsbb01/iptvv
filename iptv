@@ -310,56 +310,51 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg ",VTVCAP 7
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb9 INFO TV
+#EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_infotv.png ",VTVCAP 9
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb 12
+#EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_styletv.png ",VTVCAP 12
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb 19
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://lh3.googleusercontent.com/proxy/03srrwCAMvy4uWV878fgGJwNWDms9Z5epwiFSa3XI12yI3n1EdCVdyD06KmI4o0NCsti9Od0Lj3ciiE7BE88Pd4r-j9A8EGbHspVUfEtbIl6dqfP6s2RAMhW6C2sOO6RRQ4fRAh_BkxgopXPodvRHyc ",VTVCAP 19
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",VTVCAb 20
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0",Da Vinci
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:0",FOXMOVIES HD
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VTVCab_20.png/revision/latest?cb=20200206041357 ",VTVCAP 20
+https://vtsstr1.tv24.vn/live/_definst_/VTVcab20_SD_4/chunklist_b2692000.m3U8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/Da-vinci-learning-21.png ",DAVINCY
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lh3.googleusercontent.com/proxy/apzNWV1an1g7XzoZ9XnwTaEryYHDEeLIb8AbGUI398oNgUx6t65UzmXKnKXza_Tz1aAwQJIA_KwzZK9G8UVdRebBfQF9OzalY4k ",WARNER TV  ",WARNER TV HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?token=vvFJ8Ts0yhz5a-svR5RCLQ&time=1623757743
-#EXTINF:0",NATGEOWILD-HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg ",NATGEOWILD-HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/chunks.m3u8
-#EXTINF:-1", Animal Planet
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/10/aniumal-2-3.jpg ",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1", Discovery Asia
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/320px-Discovery_Asia_logo.svg.png ",Discovery Asia
 http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1", Boomerang
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://banner2.cleanpng.com/20180802/rtl/kisspng-logo-boomerang-television-channel-high-definition-file-boomerang-hd-png-tvcl-tv-channel-lists-5b6379a905e444.1540880715332458650241.jpg ",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1", Cartoon Network HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/hbo-max/images/5/5c/CartoonNetworkLogo.png/revision/latest?cb=20191103044430 ",Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1", AXN | 1080P
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://getlogovector.com/wp-content/uploads/2019/08/axn-logo-vector.png ",AXN HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0",FOX HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lh3.googleusercontent.com/proxy/bwe0tGOIYijka1s4uKfKEha0Lj_pX81e_mIdFNp_73LdxvfhCa1mzzI58Y5mdw1E4floJyFOVPIOK9s7XwPSMNr-sTP81zr4",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0",FOX FAMILY HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX FAMILY HDhttps://lh3.googleusercontent.com/proxy/bwe0tGOIYijka1s4uKfKEha0Lj_pX81e_mIdFNp_73LdxvfhCa1mzzI58Y5mdw1E4floJyFOVPIOK9s7XwPSMNr-sTP81zr4",FOX  HD
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0",FOX Movies HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mz2KJ0EBABN8Z0ridshyZVr6zZVBrNqTduYHZlFP2O0vOAPokxGajno1AfuRj7zIiA&usqp=CAU",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0" ,FOX LIFE HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/FOX_life_HD.png" ,FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0", FOX SPORT HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.kindpng.com/picc/m/244-2444297_fox-sports-logo-png-transparent-png.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:0 ", FOX SPORT 2 HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://p.kindpng.com/picc/s/23-236576_fox-sports-2-hd-png-download.png", FOX SPORT 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:0", FOX SPORT 3 HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png", FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1" , Blue Ant Entertainment
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5b/Blue_Ant_Entertainment_White_Logo.png/revision/latest/scale-to-width-down/250?cb=20180524074639" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1", Blue Ant Extreme
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png", Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1",PHIM HONG KONG
-https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
-#EXTINF:-1", FiLMP
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-#EXTINF:-1",  FOX ACTION MOVIES
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lh3.googleusercontent.com/proxy/RZuVfywssUruLIjvlELg16rT4pPVhsNT7b_NyVx6BiM-sBYhrsNU7AuFzXfNrETN6DRe7NlmgugvDkSX_gQrmsBy4walCptxloBCracfRBN5tLRkp0j9",PHIM HONG KONG
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:0 group-title="nước ngoài " tvg-logo="https://logodix.com/logo/1075337.png", FiLMP
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
-#EXTINF:-1", BOX XINH
+#EXTINF:0 group-title="nước ngoài " tvg-logo="https://static2.bigstockphoto.com/7/4/3/large2/347957881.",KÊNH BOX XINH
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-
-
-
