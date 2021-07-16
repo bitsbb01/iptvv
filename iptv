@@ -294,8 +294,9 @@ https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4
 #EXTINF:-1 tvg-id="SCTV21" group-title="SCTV" tvg-logo="https://i.upanh.org/2020/09/14/SCTV21.png ",SCTV21 HD
 http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
-http://112.197.12.54/hls/sctv22/sd1/index
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", VTVCab3 Thể thao TV
+http://112.197.12.54/hls/sctv22/sd1/
+
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
 http://112.197.12.62/hls/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2019/04/K1_HD-300x184-300x184.png", K+1
 http://51.210.99.3:21585/kplus2/index.m3u8
