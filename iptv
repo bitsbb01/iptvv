@@ -297,7 +297,7 @@ http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 
 
-#EXTINF: -1 group-title = "VTVcab" tvg-logo = "https://imgur.com/EsCdUue.png", Bóng đá TV
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",bóng đá tv
 http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
 http://112.197.12.62/hls/vtvcab3/index.m3u8
