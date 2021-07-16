@@ -296,12 +296,16 @@ http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
 http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 
+
+#EXTINF: -1 group-title = "VTVcab" tvg-logo = "https://imgur.com/EsCdUue.png", Bóng đá TV
+http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
 http://112.197.12.62/hls/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2019/04/K1_HD-300x184-300x184.png", K+1
 http://51.210.99.3:21585/kplus2/index.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/K%2BNS_HD.png/248px-K%2BNS_HD.png", k+ nhịp sống
-http://51.210.99.3:21585/kns2/index.m3u8
+http://s4live.tv1asia.com:21585/kns2/tracks-v1a1/mono.m3u8
+#EXTINF:0"",HAPPY  KiDS
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 #EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Vtvcab1.png/revision/latest/scale-to-width-down/220?cb=20161213095407",GẢI TRÍ 
