@@ -154,7 +154,7 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - Thông Tấn Xã Việt Nam HD
 http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ttxvn" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logohttps://i.imgur.com/SReog1U.png",VOV TV HD
+#EXTINF:-1 tvg-id="ttxvn" group-title="https://i.imgur.com/SReog1U.png", VOV TV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/AwMCnAl.png",Bình Phước 1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
@@ -318,7 +318,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.imgur.com/UpkkPnn.png", VTVCab 19 - Kênh Phim
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/VTVCab_20.png/revision/latest?cb=20200206041357 ",VTVCAP 20
+#EXTINF:0 group-title="VTVCAP" tvg-logo=" "https://imgur.com/BS3B71J.png", VTVCab20 VFamily
 http://112.197.12.62/hls/vtvcab20/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/Da-vinci-learning-21.png ",DAVINCY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.
