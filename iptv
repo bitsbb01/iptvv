@@ -259,7 +259,7 @@ http://112.197.12.54/hls/sctv3/sd1/index.m3u8
 http://vtsstr6.tv24.vn:1935/live/SCTVHDThieunhi_4/playlist.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV 4 HD - Giải Trí
 http://112.197.12.54/hls/sctv4/sd1/index.m3u8
-#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png ",SCTV5 HD
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png ",SCTV5  mua sắm
 http://112.197.12.54/hls/sctv5/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
 http://112.197.12.54/hls/sctv6/sd1/index.m3u8
@@ -269,7 +269,7 @@ http://112.197.12.54/hls/sctv7/sd1/index.m3u8
 http://112.197.12.54/hls/sctv8/sd1/index.m3u8
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9 - Phim TVB
 http://51.210.99.3:21585/sctv9/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127 ",SCTV10 HD
+#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127 ",SCTV10  MUA SẮM on 
 http://vtsstr6.tv24.vn:1935/live/sctv10_SD_4/playlist.m3u8
 #EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 HD - TV STAR
 http://112.197.12.54/hls/sctv11/sd1/index.m3u8
@@ -299,10 +299,6 @@ http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
 http://112.197.12.62/hls/vtvcab3/index.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="http://kpluss.com.vn/wp-content/uploads/2019/04/K1_HD-300x184-300x184.png", K+1
-http://51.210.99.3:21585/kplus2/index.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/K%2BNS_HD.png/248px-K%2BNS_HD.png", k+ nhịp sống
-http://s4live.tv1asia.com:21585/kns2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 #EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Vtvcab1.png/revision/latest/scale-to-width-down/220?cb=20161213095407",GẢI TRÍ 
