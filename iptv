@@ -1,8 +1,9 @@
 #EXTM3U:VOPHU - Luôn cập nhật kênh ổn định
 
 #EXTINF: VOPHU - Luôn cập nhật kênh ổn định
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logohttp://prnt.sc/1c77uxd", kênh vo phú
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="http://prnt.sc/1c77uxd", vtv10 HD
+https://vtvgo-livewebs.vtvdigital.vn/765b079cdbf7b4853a972b69b8db8aa8/1626544004561/vtv5tn/vtv5tn@mid.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/qydewGA.png", VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png",VTV2  HD
