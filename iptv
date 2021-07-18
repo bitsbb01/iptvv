@@ -302,7 +302,8 @@ http://112.197.12.62/hls/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 #EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Vtvcab1.png/revision/latest/scale-to-width-down/220?cb=20161213095407",GẢI TRÍ 
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.ibb.co/XxJL4BC/VTVCAB2-BEARTV.png",VTVCab2 - Phim Việt
+http://112.197.12.62/hls/vtvcab2/index.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_bibitv.png ",BIBI
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/VTVCab_4.png/revision/latest/scale-to-width-down/250?cb=20200206041235 ",VTVCAP 4
@@ -335,7 +336,7 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://getlogovector.com/wp-content/uploads/2019/08/axn-logo-vector.png ",AXN HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lh3.googleusercontent.com/proxy/bwe0tGOIYijka1s4uKfKEha0Lj_pX81e_mIdFNp_73LdxvfhCa1mzzI58Y5mdw1E4floJyFOVPIOK9s7XwPSMNr-sTP81zr4",FOX HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX FAMILY HDhttps://lh3.googleusercontent.com/proxy/bwe0tGOIYijka1s4uKfKEha0Lj_pX81e_mIdFNp_73LdxvfhCa1mzzI58Y5mdw1E4floJyFOVPIOK9s7XwPSMNr-sTP81zr4",FOX  HD
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
