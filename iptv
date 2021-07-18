@@ -2,7 +2,7 @@
 
 #EXTINF: VOPHU - Luôn cập nhật kênh ổn định
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://prnt.sc/1ckbi6p",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png",VTV1 HD
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png",VTV2  HD
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
@@ -295,7 +295,7 @@ http://112.197.12.54/hls/sctv20/sd1/index.m3u8
 http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png", SCTV22 HD - Ssport 1
 http://112.197.12.54/hls/sctv22/sd1/index.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",bóng đá tv
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",BÓNG ĐÁ TV
 http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
 http://112.197.12.62/hls/vtvcab3/index.m3u8
@@ -305,7 +305,6 @@ http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_bibitv.png ",BIBI
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
-acc=vaythivayhan&time=1554702727&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks&pass=xemmong
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/VTVCab_4.png/revision/latest/scale-to-width-down/250?cb=20200206041235 ",VTVCAP 4
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.imgur.com/2IgWN7Y.png", VTVCab 6 - Hay TV
@@ -322,7 +321,7 @@ https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
 http://112.197.12.62/hls/vtvcab20/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/Da-vinci-learning-21.png ",DAVINCY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://lh3.googleusercontent.com/proxy/apzNWV1an1g7XzoZ9XnwTaEryYHDEeLIb8AbGUI398oNgUx6t65UzmXKnKXza_Tz1aAwQJIA_KwzZK9G8UVdRebBfQF9OzalY4k ",WARNER TV  ",WARNER TV HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?token=vvFJ8Ts0yhz5a-svR5RCLQ&time=1623757743
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg ",NATGEOWILD-HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/chunks.m3u8
