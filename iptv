@@ -284,7 +284,7 @@ http://112.197.12.54/hls/sctv16/sd1/index.m3u8
 http://112.197.12.54/hls/sctv17/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png", SCTV18 HD - Kênh 18
 http://112.197.12.54/hls/sctv18/sd1/index.m3u8
-#EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/TwKfHGD/SCTV19-BEARTV.png", SCTV19 HD - Channel T
+#EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/d/d1/SCTV19_logo.png/revision/latest?cb=20191031110159%22,SCTV19%20-%20Channel%20T
 http://112.197.12.54/hls/sctv19/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png", SCTV20 HD - Ca Nhạc
 http://112.197.12.54/hls/sctv20/sd1/index.m3u8
