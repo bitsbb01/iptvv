@@ -295,30 +295,13 @@ http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",BÓNG ĐÁ TV
 http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
-http://112.197.12.62/hls/vtvcab3/index.m3u8
+http://203.162.123.178:8080/vtvcab3/index.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+1-hd.png", K + 1 HD
 http://51.210.99.3:21585/kplus2/index.m3u8
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://mika.vacovska.cf:1935/live/Happy_Kids.smil/chunklist_b4692000.m3u8
 #EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Vtvcab1.png/revision/latest/scale-to-width-down/220?cb=20161213095407",GẢI TRÍ 
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.ibb.co/XxJL4BC/VTVCAB2-BEARTV.png",VTVCab2 - Phim Việt
-http://112.197.12.62/hls/vtvcab2/index.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_bibitv.png ",BIBI
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab8_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/VTVCab_4.png/revision/latest/scale-to-width-down/250?cb=20200206041235 ",VTVCAP 4
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab4_HD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.imgur.com/2IgWN7Y.png", VTVCab 6 - Hay TV
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab6_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg ",VTVCAP 7
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab10_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_infotv.png ",VTVCAP 9
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab9_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_styletv.png ",VTVCAP 12
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab12_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.imgur.com/UpkkPnn.png", VTVCab 19 - Kênh Phim
-https://vtsstr1.tv24.vn/live/_definst_/VTVcab19_SD_4/chunklist_b2692000.m3u8
-#EXTINF:0 group-title="VTVCAP" tvg-logo="http://i.imgur.com/iyg21My.png",VTVCab20 - VFamily 
-http://112.197.12.62/hls/vtvcab20/index.m3u8
+http://rglink.ml/vieon.m3u8?kenh=vie-giai-tri-hd
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/Da-vinci-learning-21.png ",DAVINCY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png",Warner TV
