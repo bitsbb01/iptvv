@@ -173,7 +173,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://truyenhinhso.vn/wp-content/uploads/2020/06/%C4%90ie%CC%A3%CC%82n-Bie%CC%82n.png ",điện biên HD
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b1200000.m3u8?token=eyJjaGFubmVsX2lkIjogImRpZW4tYmllbiIsICJybWlwIjogIjExNS43Ni41NC4yMzciLCAidXNlcl9pZCI6IDIwNjAwNDAsICJ0aW1lc3RhbXAiOiAxNjI0MTUwODA1fQ
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/AutovR7.png",Hải Phòng HD
-http://27.67.64.99:18080//115_0.m3u8?AdaptiveType=HLS&SessionID=1733de45-c82d-4984-a5f6-f7e3e0971fa7&MinBw=0&MaxBw=2000000
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2021/06/08/925076-Logo-kenh-Dak-nong.png",đăk nông HD
 https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8?iptvbyvovanloc
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N5tsSuk.png",Lào Cai HD
