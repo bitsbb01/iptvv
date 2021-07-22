@@ -344,3 +344,7 @@ http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://logopond.com/logos/1f8a86c11b5c49c8bb90a218b4a2e3cb.png", KÊNH BOXING
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.nicepng.com/png/detail/231-2313618_boxing-logo-boxing-logo-png.png",KÊNH BOXING
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://i.ibb.co/q7Yz8Qm/WWE-Network-BEARTV.png",WWE
+http://89.187.185.100/WWE/index.m3u8
