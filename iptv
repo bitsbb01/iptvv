@@ -349,5 +349,5 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://www.vothuat.vn/app/uploads/2020/04/ringside-news-roman-and-rock-wrestlemania-37.png",KÊNH ĐÔ VẬT
 http://89.187.185.100/WWE/index.m3u8
 #EXTINF:69 tvg-id="VTV9-VTV" tvg-name="VTV9 HD" tvg-logo="https://i.imgur.com/UBN3r3k.png" group-title="VTV",VTV9 HD
-udp://@225.1.1.128:30120
+http://183.81.36.4:443/
 
