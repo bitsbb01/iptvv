@@ -315,10 +315,12 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/hbo-max/images/5/5c/CartoonNetworkLogo.png/revision/latest?cb=20191103044430 ",Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://getlogovector.com/wp-content/uploads/2019/08/axn-logo-vector.png ",AXN HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
+http://112.197.12.59/hls/hollywood/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png",BOX MOVIE
 http://112.197.12.62/hls/boxmovie1/sd1/index.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://toppng.com/uploads/preview/hbo-logo-vector-free-download-11574247007jhz1otylul.png",HBO
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8?uid=coca&tokenhash=chomlinklaxau
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
