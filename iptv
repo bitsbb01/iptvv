@@ -105,7 +105,7 @@ https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/68/TH%C4%90T-Logo.png",ĐỒNG THAP 1
-http://202.43.109.142:1935/THDT/thdttv/chunklist_w1753246967.m3u8
+https://vtvgo-livedp.vtvdigital.vn/8557a8d4cb071a8a0a4cd7005b3c1a1b/1627534585276/dongthap1tv/dongthap1tv@high.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9Yp8PJZ/DONGTHAP2-BEARTV.png", Đồng Tháp 2 - Miền Tây
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1855427267.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang
