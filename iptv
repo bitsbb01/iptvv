@@ -296,6 +296,10 @@ http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
 http://203.162.123.178:8080/vtvcab3/index.m3u8
+#EXTINF:0 group-title="VTVCAP" tvg-logohttps://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+1-hd.png",K+1 HD
+https://bom.to/ANblhVdyEaWAVM
+#EXTINF:0 group-title="VTVCAP" tvg-logo="https://iptvhoaithanh.000webhostapp.com/logo/Kplus/k+pc-hd.png",K+PM 
+https://bom.to/7cTbZNUqXEgX1d
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="http://tvonline.vn/wp-content/uploads/2020/03/large_happy-kids-hd.png",HAPP KIDS HD
 http://112.197.12.59/hls/happykid/index.m3u8
 #EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Vtvcab1.png/revision/latest/scale-to-width-down/220?cb=20161213095407",GẢI TRÍ 
