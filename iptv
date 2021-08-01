@@ -259,7 +259,7 @@ http://112.197.12.54/hls/sctv4/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png ",SCTV5 - SCJ TV Shopping 
 http://112.197.12.54/hls/sctv5/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", SCTV6 HD - SNTV
-https://vtsstr6.tv24.vn/live/SCTV6HD_new.smil/playlist.m3u8?uid=beartv&tokenhash=linkngon
+http://112.197.12.54/hls/sctv6/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png", SCTV7 HD - SHOW
 http://112.197.12.54/hls/sctv7/sd1/index.m3u8
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", SCTV8 HD - VITV
