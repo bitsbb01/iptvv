@@ -276,8 +276,8 @@ http://112.197.12.54/hls/sctv15/sd1/index.m3u8
 http://112.197.12.54/hls/sctv16/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png",
 http://112.197.12.54/hls/sctv17/sd1/index.m3u8
-#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png"
-http://112.197.12.54/hls/sctv18/sd1/index.m3u8
+#EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png",SCTV 18 HD
+http://mikb.vacovska.cf:1935/elive1/SCTV18_HD_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&coca&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.pn"
 http://112.197.12.54/hls/sctv19/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png"
