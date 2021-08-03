@@ -268,8 +268,9 @@ http://112.197.12.54/hls/sctv10/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", 
 http://112.197.12.54/hls/sctv11/sd1/index.m3u8
 #EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", 
-http://112.197.12.54/hls/sctv12/sd1/index.m3u8
-#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png", 
+#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://gg.gg/sctv-14" group-title = "SCTV", SCTV14 thử nghiệm
+cdn3.freedavis.cf/live/PBQWdhynUiif4IJ4bMEnsw/1627966897/sctv14sd.m3u8
+#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png",
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.pn"
 http://112.197.12.54/hls/sctv15/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", 
