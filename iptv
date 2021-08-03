@@ -254,7 +254,7 @@ https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",
 
-#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png%22,SCTV5%20th%E1%BB%AD%20nghi%E1%BB%87m
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png",SCTV5 thử nghiệm
 http://mikb.vacovska.cf:1935/elive/_definst_/SCTV5_SD_Sh.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&coca&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", 
 
