@@ -245,48 +245,49 @@ https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/s08I14p.png",Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png"
-http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
+
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", 
-http://112.197.12.54/hls/sctv1/sd1/index.m3u8
-#EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png", 
-http://112.197.12.54/hls/sctv2/sd1/index.m3u8
+
+#EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png",SCTV2 thử nghiệm
+https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png",
-http://112.197.12.54/hls/sctv3/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",
-http://112.197.12.54/hls/sctv4/sd1/index.m3u8
-#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png ",
-http://112.197.12.54/hls/sctv5/sd1/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png SCTV5 thử nghiệm
+http://mikb.vacovska.cf:1935/elive/_definst_/SCTV5_SD_Sh.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&coca&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png", 
-http://112.197.12.54/hls/sctv6/sd1/index.m3u8
+
 #EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png",
-http://112.197.12.54/hls/sctv7/sd1/index.m3u8
+
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png", 
-#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", SCTV9  thử nghiệm
-http://cdn5.freedavis.cf/live/G4hxK7rbbGl53-0tMmeb_A/1627968678/sctv9.m3u8
+
+#EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png", 
+
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/SCTV10.png/revision/latest?cb=20200930082127 ",
-http://112.197.12.54/hls/sctv10/sd1/index.m3u8
+
 #EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", 
-http://112.197.12.54/hls/sctv11/sd1/index.m3u8
-#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://i.ibb.co/SKG7SMb/SCTV12-BEARTV.png", 
-#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://inspiratomedia.com/wp-content/uploads/2015/03/sctv14.png",SCTV14 thử nghiệm
-http://cdn4.freedavis.cf/live/Bl3kIKV6hO4KWbYJynch0g/1627968728/sctv14sd.m3u8
+
+#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://inspiratomedia.com/wp-content/uploads/2015/03/sctv14.png",
+
 #EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png",
+
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.pn"
-http://112.197.12.54/hls/sctv15/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", 
-http://112.197.12.54/hls/sctv16/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png",
-http://112.197.12.54/hls/sctv17/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png",SCTV 18  thử nghiêm
 http://mikb.vacovska.cf:1935/elive1/SCTV18_HD_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&coca&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.pn"
-http://112.197.12.54/hls/sctv19/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png"
-http://112.197.12.54/hls/sctv20/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV21" group-title="SCTV" tvg-logo="https://i.upanh.org/2020/09/14/SCTV21.png "
-http://112.197.12.54/hls/sctv21/sd1/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://i.ibb.co/SwpzGqp/SCTV22-BEARTV.png"
-http://112.197.12.54/hls/sctv22/sd1/index.m3u8
+
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png",BÓNG ĐÁ TV
 http://203.162.123.178:8080/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://imgur.com/o7AHBdk.png", Thể thao TV
