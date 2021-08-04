@@ -249,7 +249,7 @@ https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", 
 
 #EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png",SCTV2 thử nghiệm
-https://vips-livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+http://mikc.vacovska.cf:1935/live/sctv2_HD_new.smil/playlist.m3u8?lic=coca&pass=chomlinklaxau
 #EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png",
 
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",
@@ -315,7 +315,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
 http://112.197.12.59/hls/hollywood/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist__b1200000.m3u8?uid=coca&tokenhash=chomlinklaxau
+http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png",FOX FAMILY HDhttps://lh3.googleusercontent.com/proxy/bwe0tGOIYijka1s4uKfKEha0Lj_pX81e_mIdFNp_73LdxvfhCa1mzzI58Y5mdw1E4floJyFOVPIOK9s7XwPSMNr-sTP81zr4",FOX  HD
