@@ -244,14 +244,14 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/s08I14p.png",Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png"
-
-#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", 
-
+#EXTINF:-1 tvg-id="sctv_phim_tong_hop_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png"SCTV PHIM thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8
+#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png",SCTV2 thử nghiệm
 http://mikc.vacovska.cf:1935/live/sctv2_HD_new.smil/playlist.m3u8?lic=coca&pass=chomlinklaxau
-#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png",
-
+#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png",SCTV3 thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",
 
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png",SCTV5 thử nghiệm
