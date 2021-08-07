@@ -271,9 +271,9 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png",SCTV13 thử nghiệm
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8
-#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.png",SCTV14 thử nghiệm
+#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="http://vi.xemtivivip.com/image/sctv14.png",SCTV14 thử nghiệm
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8
-#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="http://www.xemtivimienphi.net/ima/sctv15hd.png"SCTV15  thử nghiệm
+#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="http://vi.xemtivivip.com/image/sctv15.png",SCTV15 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", 
 
