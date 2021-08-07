@@ -1,8 +1,7 @@
 #EXTM3U:VOPHU - Luôn cập nhật kênh ổn định
 
 #EXTINF: VOPHU - Luôn cập nhật kênh ổn định
-#EXTINF:-1",vtv10
-https://sctvonline.vn/detail/sctv17-hd-87f0ff9d
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/HVm4hSt/vtv1logobyvovanloc.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/P1nWrmk/vtv2logobyvovanloc.png",VTV2  HD
@@ -313,8 +312,6 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://getlogovector.com/wp-content/uploads/2019/08/axn-logo-vector.png ",AXN HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_hwc.jpg",Hollywood Classics
-http://112.197.12.59/hls/hollywood/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://pro2-bar-s3-cdn-cf1.myportfolio.com/d7151eb9-81bf-4a23-a802-c0f69b5a6c25/c8dec94b-7722-46b1-8bf5-9a77530f1cf8_rw_600.png?h=56b38f836b27c6bea936e7cee7445336",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD
