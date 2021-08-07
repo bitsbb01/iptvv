@@ -254,7 +254,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png",SCTV4 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="http://truyenhinhcap.net/wp-content/uploads/2019/12/kenh-sctv5-tren-vtvcab.png",SCTV5 thử nghiệm
-http://mikb.vacovska.cf:1935/elive/_definst_/SCTV5_SD_Sh.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&coca&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png",SCTV6 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png",SCTV7 thử nghiệm
@@ -280,7 +280,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png",SCTV 17 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/XkPQKgK/SCTV18-BEARTV.png",SCTV 18  thử nghiêm
-http://mikb.vacovska.cf:1935/elive1/SCTV18_HD_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&coca&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png", SCTV19 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/5WH5Sf7/SCTV20-BEARTV.png",SCTV20 thử nghiệm
