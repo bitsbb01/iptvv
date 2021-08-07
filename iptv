@@ -267,12 +267,14 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png", SCTV11 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8
-#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="https://inspiratomedia.com/wp-content/uploads/2015/03/sctv14.png",
-
-#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png",
-
-#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.pn"
-
+#EXTINF:0 tvg-id="SCTV12" group-title="SCTV" tvg-logo="http://xemtv.nhanhnhat.net/image/sctv12.png",SCTV12 thử nghiêm
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8
+#EXTINF:-1 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/LQgGFN1/SCTV13-BEARTV.png",SCTV13 thử nghiệm
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8
+#EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://i.ibb.co/1dFdSLF/SCTV15-BEARTV.png",SCTV14 thử nghiệm
+http://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8
+#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="http://www.xemtivimienphi.net/ima/sctv15hd.png"SCTV15  thử nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png", 
 
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png",
