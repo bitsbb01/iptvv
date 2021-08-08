@@ -85,6 +85,8 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XsXfXcg.png",Bình Dương 4 HD
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.xemtvtructuyen.net/imag/binhduong5.png",Bình Dương 5HD
+https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd1/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7rIjJC7.png",Bình Dương 6 HD
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/BTV9.png/revision/latest?cb=20200904110200&path-prefix=vi",Bình Dương 9 HD
@@ -337,8 +339,6 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
 #EXTINF:0 group-title="nước ngoài " tvg-logo="https://logodix.com/logo/1075337.png", FiLMP
 http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://logopond.com/logos/1f8a86c11b5c49c8bb90a218b4a2e3cb.png", KÊNH BOXING
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.nicepng.com/png/detail/231-2313618_boxing-logo-boxing-logo-png.png",KÊNH BOXING
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://www.vothuat.vn/app/uploads/2020/04/ringside-news-roman-and-rock-wrestlemania-37.png",KÊNH ĐÔ VẬT
