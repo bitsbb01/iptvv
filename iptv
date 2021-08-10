@@ -1,7 +1,7 @@
 #EXTM3U:VOPHU - Luôn cập nhật kênh ổn định
 
-#EXTINF: VOPHU - Luôn cập nhật kênh 
-#EXTINF:-1", VÕ PHÚ
+#EXTINF: VOPHU - Luôn cập nhật kênh
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://prnt.sc/1m7z0dn.png",VÕ PHÚ
 https://mega.nz/file/eqoGVRiB#FquZ7fnI2rXlFFArwCsq7LPFJXnsjNaAhYfeVaCWeuY
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://xemtv.nhanhnhat.net/image/vtv1.png",VTV1  HD VÕ PHÚ
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
