@@ -337,12 +337,7 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://e7.pngegg.com/pngimages/694/665/png-clipart-tvb-xing-he-television-in-hong-kong-tvb-jade-xing-television-text-thumbnail.png", phim hồng kong
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
-#EXTINF:0 group-title="nước ngoài " tvg-logo="https://logodix.com/logo/1075337.png", FiLMP
-http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.nicepng.com/png/detail/231-2313618_boxing-logo-boxing-logo-png.png",KÊNH BOXING
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo"https://www.vothuat.vn/app/uploads/2020/04/ringside-news-roman-and-rock-wrestlemania-37.png",KÊNH ĐÔ VẬT
-http://89.187.185.100/WWE/index.m3u8
+
 
 
 
