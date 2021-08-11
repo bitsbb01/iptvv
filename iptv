@@ -286,7 +286,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/Vws1Fw8/IMG-20210811-203938.png",SCTV19 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8
-#EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/qgH5QnZ/IMG-20210811-204253.png",SCTV20 thử nghiệm
+#EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/sjcbJZG/IMG-20210812-061120.png",SCTV20 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV21" group-title="SCTV" tvg-logo="https://i.ibb.co/J3hkXtT/IMG-20210811-204520.png",SCTV21 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd1/index.m3u8
