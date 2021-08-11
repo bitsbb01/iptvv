@@ -2,7 +2,7 @@
 
 #EXTINF: VOPHU - Luôn cập nhật 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/k2Cr4r9/IMG-20210811-173829.png",VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/K200D8D/IMG-20210811-175339.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://xemtv.nhanhnhat.net/image/vtv2.png",VTV2  HD VÕ PHÚ
 https://livecdn.fptplay.net/hda1/vtv2_hls.smil/chunklist_b2500000.m3u8
