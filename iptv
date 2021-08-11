@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
-#https://onedrive.live.com/download?cid=B8A3DD2343176854&resid=B8A3DD2343176854%2114325&authkey=AOsHyz6XI4_GTOw
+#EXTM3U  VÕPHÚ
 
 #EXTINF: VOPHU - Luôn cập nhật kênh
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://xemtv.nhanhnhat.net/image/vtv1.png",VTV1  HD VÕ PHÚ
