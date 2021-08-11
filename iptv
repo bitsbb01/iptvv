@@ -246,7 +246,7 @@ http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/s08I14p.png",Thanh Hóa
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/0fJ8dmG/IMG-20210811-184645.png"SCTV PHIM thử nghiệm
+#EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/0fJ8dmG/IMG-20210811-184645.png",SCTV PHIM thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png", SCTV1 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
