@@ -169,7 +169,7 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/hRGdqVm/IMG-20210814-160826.png",Phú Thọ HD
 http://livecdn.fptplay.net/sda/phutho_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zJcn0fJ/YTV-HD.png",Yên Bái HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1GVcw4K/IMG-20210814-185846.png",Yên Bái HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/d4TLXL5/IMG-20210814-185951.png",điện biên HD
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b1200000.m3u8?token=eyJjaGFubmVsX2lkIjogImRpZW4tYmllbiIsICJybWlwIjogIjExNS43Ni41NC4yMzciLCAidXNlcl9pZCI6IDIwNjAwNDAsICJ0aW1lc3RhbXAiOiAxNjI0MTUwODA1fQ
@@ -186,7 +186,7 @@ https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xYmWMhh/IMG-20210814-185731.png",Lai Châu
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VwjYkR6/IMG-20210814-185716.png",Bắc Kạn HD
-http://113.160.162.131:8080/tv/bk.m3u8
+http://113.160.162.131:8080/tv/bk.m3u
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/RNb40fL/IMG-20210814-185919.png",Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qB6JV8M/IMG-20210814-185657.png",thái nguyên  HD
@@ -201,7 +201,7 @@ http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/GtCf5xM/IMG-20210814-194842.png",Bắc Ninh HD
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-#EXTINF:-1 " ,Thai Binh#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/z8Gq24T/IMG-20210814-194820.png",Thái Bình HD
+#EXTINF:-1 " ,Thai Binh#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/BBdkzzZ/IMG-20210815-062910.jpg",Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/mcfZJZv/IMG-20210814-194801.png", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
