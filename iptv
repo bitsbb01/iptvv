@@ -221,7 +221,7 @@ https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VHnTJRk/IMG-20210814-194537.png",Quảng Bình
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wcrFGY8/IMG-20210814-194520.png",Quảng Ngãi HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/h1jk2hG/IMG-20210815-083858.png",Quảng Ngãi HD
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wcrFGY8/IMG-20210814-194520.png",Quảng Nam
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
