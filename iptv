@@ -186,7 +186,7 @@ https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xYmWMhh/IMG-20210814-185731.png",Lai Châu
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VwjYkR6/IMG-20210814-185716.png",Bắc Kạn HD
-http://113.160.162.131:8080/tv/bk.m3u
+http://113.160.162.131:8080/tv/bk.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/RNb40fL/IMG-20210814-185919.png",Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qB6JV8M/IMG-20210814-185657.png",thái nguyên  HD
@@ -216,7 +216,7 @@ http://117.4.240.220/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1R6djdQ/IMG-20210814-194640.png",ninh bình HD
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/YRWYVFS/IMG-20210814-194621.png",Nghệ An HD
-https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+https://livecdn.fptplay.net/sda/nghean_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2c6B4Cd/IMG-20210814-194556.png",Hà Tĩnh HD
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VHnTJRk/IMG-20210814-194537.png",Quảng Bình
@@ -234,7 +234,7 @@ https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/nnzbSL9/IMG-20210814-194358.png",Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/KNDQzZ4/IMG-20210814-194341.png",Thừa Thiên Huế
-http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/hue_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7p2JPxy/IMG-20210814-194324.png",Kon Tum HD
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/5LTtgP3/IMG-20210814-194304.png",Lâm Đồng HD
