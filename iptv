@@ -97,17 +97,17 @@ https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ww2ddpV/IMG-20210818-165641.png",Bình Dương 10
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SKn55qG/IMG-20210812-103606.png",Vĩnh Long 1 HD
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/p4qqdNz/IMG-20210818-172338.png",Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/rvhHjJC/IMG-20210812-103522.png",Vĩnh Long 2 HD
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LNPS5WV/IMG-20210818-172324.png",Vĩnh Long 2 HD
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/cgcx9Cc/IMG-20210812-103628.png",Vĩnh Long 3 HD
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SP0FC0P/IMG-20210818-172309.png",Vĩnh Long 3 HD
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/3kPkpqn/IMG-20210812-103548.png",Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/RDnCvhZ/IMG-20210818-172238.png",Vĩnh Long 4 HD
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zXbS3xG/IMG-20210812-104329.png",Đồng tháp
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TPKgXRg/IMG-20210818-172202.png",Đồng tháp
 https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/D8zYXn5/IMG-20210814-152536.png", Đồng Tháp 2 - Miền tây
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Jd5yYGY/IMG-20210818-172216.png", Đồng Tháp 2 - Miền tây
 http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1710420326.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9HYmYXz/IMG-20210814-152520.png",Hậu Giang
 https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
