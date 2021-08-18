@@ -253,7 +253,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0s8Cpy8/IMG-20210818-205342.png",SCTV2 thử nghiệm
 http://mikc.vacovska.cf:1935/live/sctv2_HD_new.smil/playlist.m3u8?lic=coca&pass=chomlinklaxau
-#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/M2m0WTf/IMG-20210818-205359.",SCTV3 thử nghiệm
+#EXTINF:0 tvg-id="sctv3_see_tv" group-title="SCTV" tvg-logo="https://i.ibb.co/M2m0WTf/IMG-20210818-205359.png",SCTV3 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/C21q25G/IMG-20210818-205420.png",SCTV4 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8
