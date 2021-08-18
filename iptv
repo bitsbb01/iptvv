@@ -1,7 +1,7 @@
 #EXTM3U  VÕPHÚ
 
 #EXTINF: VOPHU - Luôn cập nhật 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tcq6q2F/IMG-20210818-121449.png",TV VÕ PHÚ
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/zbM6XWv/IMG-20210818-160618.png",TV VÕ PHÚ
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210724/the_white_storm_2013_bluray_1080p_tm_v2/4209cfb094de86aebd983b62a95eb386_720p.mp4/playlist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImRjNmFjZmM3MWRlMGE1YjNhMzRlNWNkNDA3MDc0MGZlIiwgInZpZGVvX2lkIjogIjU2ZjBjOGViMTdkYzEzMmQzNzE4M2VkOSIsICJzZXJ2ZXJfdGltZSI6IDE2Mjg4MjkwNTksICJ2YWxpZF9taW51dGVzIjogNzIwfQ
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -51,33 +51,33 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.ibb.co/XbngLYq/IMG-20210818-125336.png",HTVC PLUS HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.ibb.co/bmhbWLX/IMG-20210818-134009.png",VTC1  HD
+#EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.ibb.co/k6cSC4p/IMG-20210818-155918.png",VTC1  HD
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.ibb.co/JrJws13/IMG-20210818-154417.png",VTC2  HD
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.ibb.co/dWR1PTV/IMG-20210814-094137.png",VTC3  HD
+#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.ibb.co/V3KFkN4/IMG-20210818-155933.png",VTC3  HD
 https://vtc130121.cdn.vnns.io/VTC3/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.ibb.co/b2BqfJ1/IMG-20210814-094242.png",VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.ibb.co/gr0pXTq/IMG-20210818-155952.png",VTC4 HD
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.ibb.co/pPsny6f/IMG-20210814-094257.png",VTC5 HD
+#EXTINF:-1 tvg-id="vtc5hd" group-title="VTC" tvg-logo="https://i.ibb.co/8xWCzGy/IMG-20210818-160013.png",VTC5 HD
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.ibb.co/2dytbvH/IMG-20210814-094312.png",VTC6 HD
+#EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.ibb.co/LrN7HBk/IMG-20210818-160031.png",VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.ibb.co/9yqpD6x/Th-7-14-08-2021-09-34-33.png",VTC7 - TodayTV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.ibb.co/Z81y4ST/IMG-20210818-160053.png",VTC7 - TodayTV
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/ky96dHC/IMG-20210814-094334.png",VTC8  HD
+#EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/VYHc0QV/IMG-20210818-160106.png",VTC8  HD
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/vDFDyjR/IMG-20210814-094348.png",VTC9  HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/Scv1Qk6/IMG-20210818-160119.png",VTC9  HD
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/xmbR8m0/IMG-20210814-094404.png",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.ibb.co/C6SQMym/IMG-20210818-160134.png",VTC10 HD
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.ibb.co/GtXdtqc/IMG-20210814-094422.png",VTC11 HD
+#EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.ibb.co/ws92rQj/IMG-20210818-160150.",VTC11 HD
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://i.ibb.co/bskfTdn/IMG-20210814-094443.png",VTC12 HD
+#EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="https://i.ibb.co/sb4cs3T/IMG-20210818-160202.",VTC12 HD
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.ibb.co/r70hrrt/Th-7-14-08-2021-09-39-32.png",VTC13  HD
+#EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.ibb.co/NFfrgbJ/IMG-20210818-160220.png",VTC13  HD
 https://vtc130121.cdn.vnns.io:443/VTC13/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.ibb.co/km1PkFM/IMG-20210814-094504.png",VTC14 HD
+#EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.ibb.co/61Z4cbh/IMG-20210818-160235.png",VTC14 HD
 https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODI1MTU3MTcsICJyZXNvdXJjZV9pZCI6ICJ2dGMxNF8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjRmZDM1YmZjYjFmYThmMjg2NGQ5MTQwYjA2M2YxZGM0IiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNjAyMTE3LCAicm1pcCI6ICIyNy43OS4yMDAuMTYzIn0=
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/2MZm5DD/IMG-20210818-152545.png",VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
