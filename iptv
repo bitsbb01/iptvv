@@ -257,8 +257,8 @@ http://mikc.vacovska.cf:1935/live/sctv2_HD_new.smil/playlist.m3u8?lic=coca&pass=
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/C21q25G/IMG-20210818-205420.png",SCTV4 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8
-#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/9HG28h2/IMG-20210818-205440.png",SCTV5 thử nghiệm
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8
+#EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" tvg-logo="https://i.ibb.co/9HG28h2/IMG-20210818-205440.png",SCTV5 thử  nghiệm
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8?md5=WgFj80nCKRlhZ4R9zQoZzg&expires=2556118740
 #EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/q5qyDkL/IMG-20210818-205455.png",SCTV6 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8
 #EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yQ3VTFg/IMG-20210818-205511.png",SCTV7 thử nghiệm
@@ -284,7 +284,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://i.ibb.co/0ZFYb4x/IMG-20210818-205836.png",SCTV 17 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8
 #EXTINF:-1 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://i.ibb.co/wStZdGb/IMG-20210818-205855.png",SCTV 18  thử nghiêm
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv18/sd1/index.m3u8?md5=LpLRftYMafDSOLR-TKK6Mw&expires=2556118740
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" tvg-logo="https://i.ibb.co/JstF46H/IMG-20210818-205912.png",SCTV19 thử nghiệm
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" tvg-logo="https://i.ibb.co/gW0PnpP/IMG-20210818-205932.png",SCTV20 thử nghiệm
