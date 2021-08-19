@@ -121,47 +121,47 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8cs4p0d/IMG-20210819-094023.png",Sóc Trăng 1
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/w0YD67f/IMG-20210814-152337.png",cà mau HD
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/z52J691/IMG-20210814-152320.png",Long An
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zF2jL4t/IMG-20210819-174512.png",cà mau HD
+http://tv.ctvcamau.vn/live/tvhttps://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fXCkgp0/IMG-20210819-174932.png",Long An
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7NSB0wW/IMG-20210814-152302.png",An Giang HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/zhqt1GR/IMG-20210819-174429.png",An Giang HD
 http://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sJYPYxG/IMG-20210814-152244.png",Kiên Giang 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/1Q6xrz1/IMG-20210819-174444.png",Kiên Giang
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/m0kPMHv/IMG-20210814-152221.png",Kiên Giang 1 HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Zd5Gpr0/IMG-20210819-174458.png",Kiên Giang 1 HD
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pdZ69xm/IMG-20210814-152123.png",Đồng Nai 1 HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Wy6w7Gn/IMG-20210819-173737.png",Đồng Nai 1 HD
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/hM7Fxt9/IMG-20210814-152105.png",Đồng Nai 2 HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/nRnTv4G/IMG-20210819-173719.png",Đồng Nai 2 HD
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qrSbHb8/IMG-20210814-152145.png",Tây Ninh HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/mGd0Whr/IMG-20210819-191951.png",Tây Ninh HD
 http://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZL3nxQ0/IMG-20210814-161251.png",BẠC LIÊU HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wQPYCXm/IMG-20210819-191934.png",BẠC LIÊU HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xYb59FC/IMG-20210814-161235.png",Hà Nội 1 HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VYcnhv6/IMG-20210819-185656.png",Hà Nội 1 HD
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wdxBNQ7/IMG-20210814-161216.png",Hà Nội 2  HD
+#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/H4MHRmm/IMG-20210819-185709.png",Hà Nội 2  HD
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/jHytxD4/IMG-20210814-161201.png",An Ninh TV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Hq2TwxS/IMG-20210819-185642.png",An Ninh TV HD
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Dk56G6x/IMG-20210814-161145.png",Quốc Hội Việt Nam HD
+#EXTINF:-1 tvg-id="quoc_hoi_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/94km7Bx/IMG-20210819-185802.png",Quốc Hội Việt Nam HD
 https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/mtjTMQB/IMG-20210814-161131.png",Quốc Phòng Việt Nam HD
+#EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/8XN8qmF/IMG-20210819-185749.png",Quốc Phòng Việt Nam HD
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Zdkf3nM/IMG-20210814-161114.png",Nhân Dân TV HD
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/z4csc4H/IMG-20210819-185737.png",Nhân Dân TV HD
 https://htv-drm-live-cdn.fptplay.net:443/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="ttxvn" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/wcd3GbL/IMG-20210814-161059.png",VNews - Thông Tấn Xã Việt Nam HD
+#EXTINF:-1 tvg-id="ttxvn" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/h20sxb9/IMG-20210820-055547.png",VNews - Thông Tấn Xã Việt Nam HD
 http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="VOV TV" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/5LSkjgy/IMG-20210814-161026.png",VOV TV
+#EXTINF:-1 tvg-id="VOV TV" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Bj5TGg2/IMG-20210819-185725.png",VOV TV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/GFHf19N/IMG-20210814-161011.png",Bình Phước 1 HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VL1bNQ2/IMG-20210820-055857.jpg",Bình Phước 1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/NKfjXdG/IMG-20210814-160954.png",Bình Phước 2 SD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/bgKcRbX/IMG-20210820-055846.jpg",Bình Phước 2 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/XYndqgs/IMG-20210814-160939.png",Đà Nẵng 1
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qMWVxR0/IMG-20210820-060117.jpg",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/LQJ5bcv/IMG-20210814-160925.png",Đà Nẵng 2
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/GP2cjxX/IMG-20210820-060123.jpg",Đà Nẵng 2
 https://livecdn.fptplay.net:443/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QptSsx4/IMG-20210814-160907.png",Ninh Thuận
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
