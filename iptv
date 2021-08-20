@@ -64,7 +64,7 @@ https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.ibb.co/LrN7HBk/IMG-20210818-160031.png",VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.ibb.co/Z81y4ST/IMG-20210818-160053.png",VTC7 - TodayTV
-https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/VYHc0QV/IMG-20210818-160106.png",VTC8  HD
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/Scv1Qk6/IMG-20210818-160119.png",VTC9  HD
