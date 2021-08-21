@@ -203,7 +203,7 @@ http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:-1 " ,Thai Binh#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wgGJ3Sj/IMG-20210821-104439.png",Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://ibb.co/p1xstkv", Vĩnh Phúc
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2jTCCCf/IMG-20210821-155742.png", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jzZkzvZ/IMG-20210821-104500.png",Bắc Giang HD
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
