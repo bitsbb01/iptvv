@@ -297,9 +297,9 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.ibb.co/N7CjRjj/IMG-20210819-055308.png", Thể thao  tv thử nghiệm
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
-#EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="https://i.ibb.co/WWHzrS2/IMG-20210814-052340.png",HAPP KIDS HD
+#EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="https://i.ibb.co/KGsLGFN/IMG-20210821-155117.png",HAPP KIDS HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://i.ibb.co/MZJskYj/IMG-20210814-052326.png",GẢI TRÍ 
+#EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://i.ibb.co/6ysfwKM/IMG-20210821-155102.png",GẢI TRÍ 
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/6rDWXk2/IMG-20210821-142645.png",DAVINCY
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
@@ -323,7 +323,7 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoc
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/y6cZpr5/IMG-20210821-142633.png",FOX FAMILY 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/vw7gRxR/IMG-20210814-052514.png",FOX Movies HD
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/hRvLtsx/IMG-20210821-155128.png",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/5TDpYnF/IMG-20210821-142827.png" ,FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
