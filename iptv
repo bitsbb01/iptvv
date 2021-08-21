@@ -100,7 +100,7 @@ https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/g4kkNr0/IMG-20210818-173119.png",Vĩnh Long 1 HD
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/64NdY7r/IMG-20210818-173135.png",Vĩnh Long 2 HD
-https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/xML5QhM/IMG-20210818-173440.png",Vĩnh Long 3 HD
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/41WpdK4/IMG-20210818-173500.png",Vĩnh Long 4 HD
