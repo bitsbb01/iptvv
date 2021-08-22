@@ -2,7 +2,7 @@
 
 #EXTINF: VOPHU - Luôn cập nhật .
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
-https://ndcagev-swv-47b850307.thapcam.link/5b9cd2f62f4938132c9a4d67d76e58d92d0ccc2f/589dafbf1bf357d750916c518cbae54d/1629633277506/livehls/mtc_may7/playlist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese_odyssey_part_ii_china_1994_lt_v5/6f2311394f4c2e1bc7eab69605bf68f6.smil/chunklist_b2828000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/YWHs46S/IMG-20210818-065129.png",VTV2 HD
