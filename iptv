@@ -4,7 +4,6 @@
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese_odyssey_part_ii_china_1994_lt_v5/6f2311394f4c2e1bc7eab69605bf68f6.smil/chunklist_b2828000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/yBQKcd8/IMG-20210822-210323.png",
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/YWHs46S/IMG-20210818-065129.png",VTV2 HD
