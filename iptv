@@ -86,6 +86,8 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/879YWST/IMG-20210818-165455.png",Bình Dương 2 HD
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZfdZNBm/IMG-20210824-151025.png",Bình Dương 3 HD
+https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/HPL3f8c/IMG-20210818-165518.png",Bình Dương 4 HD
 https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/HDHJkz1/IMG-20210818-165554.png",Bình Dương  5
