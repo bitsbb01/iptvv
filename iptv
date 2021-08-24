@@ -189,7 +189,7 @@ https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2YSRk3s/IMG-20210820-180706.png",Lai Châu
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/cN0vVPB/IMG-20210820-180655.png",Bắc Kạn HD
-http://113.160.162.131:8080/tv/bk.m3u8
+https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/5hjkQN5/IMG-20210820-180644.png",Tuyên Quang HD
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/FstYx97/IMG-20210820-180630.png",thái nguyên  HD
