@@ -153,11 +153,11 @@ https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/8XN8qmF/IMG-20210819-185749.png",Quốc Phòng Việt Nam HD
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/z4csc4H/IMG-20210819-185737.png",Nhân Dân TV HD
-https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="ttxvn" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/h20sxb9/IMG-20210820-055547.png",VNews - Thông Tấn Xã Việt Nam HD
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="VOV TV" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/Bj5TGg2/IMG-20210819-185725.png",VOV TV
-http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VL1bNQ2/IMG-20210820-055857.jpg",Bình Phước 1 HD
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/bgKcRbX/IMG-20210820-055846.jpg",Bình Phước 2 HD
