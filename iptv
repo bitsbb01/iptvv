@@ -344,5 +344,7 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/fq5x9Gz/IMG-20210821-143700.png",PHIM HỒNG KONG
 https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/GtybNP8/IMG-20210820-080047.png",boxxing
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/1LgqTfS/Th-6-27-08-2021-19-20-43.png",WWE
+http://89.187.185.100/WWE/index.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/7G1GJ2T/IMG-20210827-190950.png",bein 1HD 
+http://stream.tvtap.net:8081/live/tr-bein1.stream/playlist.m3u8?=xemtvnhanh.m3u8
