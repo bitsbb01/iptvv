@@ -1,7 +1,8 @@
 #EXTM3U  VÕPHÚ
 
 #EXTINF: VOPHU - Luôn cập nhật 
-
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/7rCn8Ks/IMG-20210828-183813.png",TRỰC TIẾP BÓNG ĐÁ
+https://7038446ef.vws.vegacdn.vn/livehls/lusd1/playlist.m3u8|Referer=https://cakhia3.live/truc-tiep
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
 https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese_odyssey_part_ii_china_1994_lt_v5/6f2311394f4c2e1bc7eab69605bf68f6.smil/chunklist_b2828000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
