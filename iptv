@@ -349,8 +349,8 @@ https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/1LgqTfS/Th-6-27-08-2021-19-20-43.png",WWE
 http://89.187.185.100/WWE/index.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/7G1GJ2T/IMG-20210827-190950.png",bein 1HD 
-http://stream.tvtap.net:8081/live/tr-bein1.stream/playlist.m3u8?=xemtvnhanh.m3u8
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8?=xemtv.co.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/k3Jzdvc/IMG-20210827-193528.png",bein 2HD
-http://stream.tvtap.net:8081/live/tr-bein2.stream/playlist.m3u8?=xemtvnhanh.m3u8
+http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/w672tn8/IMG-20210827-194247.png",SKYSPORTS
 http://stream.tvtap.live:8081/live/de-skybundes1.stream/playlist.m3u8
