@@ -346,3 +346,5 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/1LgqTfS/Th-6-27-08-2021-19-20-43.png",WWE
 http://89.187.185.100/WWE/index.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/nzrLxgc/IMG-20210829-142722.png", SuperSport Premier League
+http://channels227070.clientportal.link:80/Damir256/pZWeRm508/28896
