@@ -2,8 +2,8 @@
 #EXTINF: VOPHU
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/DpT6nn2/IMG-20210902-200947.png",SAUDI VS VIỆT NAM
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/DpT6nn2/IMG-20210902-200947.png",venezuel vs argentina
+https://1630578830.vnns.net/luhd3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/brPyFhs/IMG-20210902-201036.png",UAE VS LEBANON
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/KqH96cb/IMG-20210902-193630.png",LRAN VS SYRIA
