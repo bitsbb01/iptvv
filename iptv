@@ -2,14 +2,10 @@
 #EXTINF: VOPHU
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS
-https://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/xXxQG72/Screenshot-20210902-054440.jpg",UAE VS LEBANON
-https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/gryqq1j/Screenshot-20210902-054415.jpg",Lran vs syria
-https://livecdn.fptplay.net/tvc/world-cup04_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/Wfbn5PX/Screenshot-20210902-054524.jpg", NHẬT BẢN VS OMAN
-https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/DpT6nn2/IMG-20210902-200947.png",SAUDI VS VIỆT NAM
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/brPyFhs/IMG-20210902-201036.png",UAE VS LEBANON
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VÕ PHÚ" tvg-logo="https://i.ibb.co/ZVL19Cc/Screenshot-20210902-054502.jpg",HÀN QUỐC VS LRAq
 https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
