@@ -2,8 +2,8 @@
 #EXTINF: VOPHU
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS VIỆT NAM
-https://web-livecdn.fptplay.net/tvc/world-cup01_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/LdPWKF3/IMG-20210902-054549.png",SAUDI VS
+ttps://7038446ef.vws.vegacdn.vn/livehls/m201nd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/xXxQG72/Screenshot-20210902-054440.jpg",UAE VS LEBANON
 https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ibb.co/gryqq1j/Screenshot-20210902-054415.jpg",Lran vs syria
