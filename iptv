@@ -304,6 +304,16 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740
 #EXTINF:0 group-title="VTVCAP" tvg-logo="https://i.ibb.co/N7CjRjj/IMG-20210819-055308.png", Thể thao  tv thử nghiệm
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
+#EXTINF:-1 tvg-id="kpluspmhd" tvg-name="k+pm hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799807854/7d4269726fc1_180_180.png" group-title="Kênh K+",K+PM HD
+http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
+#EXTINF:-1 tvg-id="kpluspchd" tvg-name="k+pc hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/1607998033482/dbce326ab655_180_180.png" group-title="Kênh K+",K+PC HD 
+http://103.109.36.12:9981/stream/channelid/738163265?ticket=F6D3A37D7CB16114DD014725C69BADF3DB3F3E96&profile=pass
+#EXTINF:-1 tvg-id="kplus1hd" tvg-name="k+1 hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/1607998210482/4e157e4cd2f9_180_180.png" group-title="Kênh K+",K+1 HD
+http://103.109.36.12:9981/stream/channelid/58268408?ticket=C42C72EF534DEF2169754AED020888DD0AC534A2&profile=pass
+#EXTINF:-1 tvg-id="kplusnshd" tvg-name="k+ns hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799836049/a21d3df86e5b_180_180.png" group-title="Kênh K+",K+NS HD
+http://103.109.36.12:9981/stream/channelid/567642593?ticket=CB0C127EA6C7A7648F960C12755263BA70F233C1&profile=pass
+#EXTINF:-1 tvg-id="kpluspmhd" tvg-name="k+pm hd" tvg-logo="http://imageakm1.tv360.vn/image1/2020/12/15/09/160799807854/7d4269726fc1_180_180.png" group-title="Kênh K+",K+PM 2HD
+https://is.gd/live_sreamskpm
 #EXTINF:-1 tvg-id="HAPPY KIDS" group-title="VTVCAP" tvg-logo="https://i.ibb.co/KGsLGFN/IMG-20210821-155117.png",HAPP KIDS HD
 https://e4.endpoint.cdn.sctvonline.vn/secure/happykid/index.m3u8?md5=RoppAcvPHs-dCJI1jRxvgQ&expires=2556118740
 #EXTINF:-1 tvg-id="VTV GẢI TRÍ" tvg-name="THVL1 HD" group-title="VTVCAP" tvg-logo="https://i.ibb.co/6ysfwKM/IMG-20210821-155102.png",GẢI TRÍ 
