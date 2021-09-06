@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn03
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
 #EXTINF: VOPHU
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tsctZp5/IMG-20210822-061355.png",TV VÕ PHÚ
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
