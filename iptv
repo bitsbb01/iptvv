@@ -355,11 +355,4 @@ https://is.gd/streniss_wee24h
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/sKgyHdf/IMG-20210907-045752.png",THỂ THAO VÕ PHÚ
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/R0GjsZW/IMG-20210907-135627.png",1 TUẦN MỞ 4 NGÀY K+PM
-http://103.109.36.12:9981/stream/channelid/340308666?ticket=DFE77D69284FB666F172E19C87CB12AE31396956&profile=pass
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://i.ibb.co/wh1qbk9/IMG-20210907-135658.png",1 TUẦN MỞ 4 NGÀY
-http://103.109.36.12:9981/stream/channelid/58268408?ticket=C42C72EF534DEF2169754AED020888DD0AC534A2&profile=pass
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = https://i.ibb.co/4srvdrq/IMG-20210907-135643.png",1 TUẦN MỞ 4 NGÀY
-http://103.109.36.12:9981/stream/channelid/567642593?ticket=CB0C127EA6C7A7648F960C12755263BA70F233C1&profile=pass
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = https://i.ibb.co/hDz1rfS/IMG-20210907-135906.png",1 TUẦN MỞ 4 NGÀY
-http://103.109.36.12:9981/stream/channelid/738163265?ticket=F6D3A37D7CB16114DD014725C69BADF3DB3F3E96&profile=pass
+
