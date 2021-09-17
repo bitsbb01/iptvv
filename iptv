@@ -1,11 +1,11 @@
 #EXTM3U 
 #EXTINF: VOPHU
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/CQ9xw7f/IMG-20210915-190129.png",TRỰC TIẾP BÓNG ĐÁ  1
-https://media.publit.io/file/h_480/nh-c-b-ng-d.mp4
+https://media.publit.io/file/km_20210917_1080p.mp4
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/CQ9xw7f/IMG-20210915-190129.png",TRỰC TIẾP BÓNG ĐÁ  2
-https://media.publit.io/file/h_480/nh-c-b-ng-d.mp4
+https://media.publit.io/file/km_20210917_1080p.mp4
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/CQ9xw7f/IMG-20210915-190129.png", TRỰC TIẾP BÓNG ĐÁ 3
-https://media.publit.io/file/h_480/nh-c-b-ng-d.mp4
+https://media.publit.io/file/km_20210917_1080p.mp4
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/YWHs46S/IMG-20210818-065129.png",VTV2 HD
