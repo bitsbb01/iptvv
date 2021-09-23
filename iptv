@@ -331,8 +331,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/QYMSHc4/IMG-20210825-163127.png",KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/XXSLPP2/IMG-20210821-142816.png",FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/yQVHJWm/IMG-20210920-191508.png",BOX MOVIE
 https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/J3Kwbn9/IMG-20210920-192427.png",Hollywood Classics
@@ -361,8 +359,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/rsyzy46/IMG-20210906-193845.png", BOXING 3
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/SNMtfBQ/IMG-20210906-204226.png", BOXING 4
-https://is.gd/streniss_wee24h
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/kHDbyvn/IMG-20210923-190634.png",THỂ THAO NƯỚC NGOÀI 1
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
