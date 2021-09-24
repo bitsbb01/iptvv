@@ -326,7 +326,7 @@ https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/LnF642f/IMG-20210821-142746.png",Cartoon Network HD
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/7rqcDc8/IMG-20210821-143313.png",AXN HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/K0cHdq4/IMG-20210821-142806.png",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/QYMSHc4/IMG-20210825-163127.png",KIX HD
@@ -337,12 +337,10 @@ https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF
 https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&cre=coca&expires=2556118740
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/q9JZG1k/IMG-20210921-054704.png",STAR Movies HD 
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/rF2s63V/IMG-20210924-171953.png",Cinemax
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/rf1Hg4Q/IMG-20210921-055233.png",STAR WRLDHD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/hRvLtsx/IMG-20210821-155128.png",FOX Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/5TDpYnF/IMG-20210821-142827.png" ,FOX LIFE HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/kgwws3W/IMG-20210821-143302.png", FOX Sports HD
 https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/sC0vgFp/IMG-20210821-142849.png", FOX SPORT 2 HD
