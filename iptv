@@ -356,7 +356,7 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/kHDbyvn/IMG-20210923-190634.png",THỂ THAO NƯỚC NGOÀI 1
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/6699
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/qrWyLLJ/IMG-20210923-185032.png",THỂ THAO NƯỚC NGOÀI 3
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/335
 
