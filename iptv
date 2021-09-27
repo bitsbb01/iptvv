@@ -350,13 +350,14 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/JpCJDfR/IMG-20210906-185648.png", BOXING 2
-https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/337
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/rsyzy46/IMG-20210906-193845.png", BOXING 3
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/kHDbyvn/IMG-20210923-190634.png",THỂ THAO NƯỚC NGOÀI 1
 http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_2/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/c2kMtNm/IMG-20210923-190622.png",THỂ THAO NƯỚC NGOÀI 2
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/qrWyLLJ/IMG-20210923-185032.png",THỂ THAO NƯỚC NGOÀI 3
+http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/335
 
 
