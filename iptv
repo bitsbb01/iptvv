@@ -345,18 +345,6 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/1.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/j5prKvq/IMG-20211001-122521.png",SONY TEN 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/1.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/59DT4HL/IMG-20211001-124722.png",BEIN_SPORTS 1
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/357
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/gS1DytY/IMG-20211001-124704.png",BEIN_SPORTS 2
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/359
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/k0H5Ctq/IMG-20211001-160259.png",RMC SPORT 1
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/335
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/jvmNvZ5/IMG-20211001-160241.png",RMC SPORT 2
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/337
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/ZG7rSb7/IMG-20211003-040506.png",SUPERSPOR Priemier league
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/6699
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/ZYCNzy9/IMG-20211003-040447.png",SUPERSPOR LALIGA
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/6694
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/0XWmh5f/IMG-20210821-142948.png" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/HqV4gnJ/IMG-20210821-142957.png", Blue Ant Extreme
