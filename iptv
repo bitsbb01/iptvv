@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: VOPHU
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/5cDNww7/IMG-20211006-175138.png",VIỆT NAN VS TRUNG QUỐC
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/5cDNww7/IMG-20211006-175138.png",VIỆT NAN VS TRUNG QUỐC 22 GIỜ 7/10
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -28,7 +28,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/KGsLGFN/IMG-20210821-155117.png",KÊNH THIẾT NHI HAPPY KIDS HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/LnF642f/IMG-20210821-142746.png"KÊNH THIẾT NHI ,Cartoon Network 
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/LnF642f/IMG-20210821-142746.png",KÊNH THIẾT NHI Cartoon Network 
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/FgRvnqf/IMG-20210821-142736.png",KÊNH THIẾT NHI Boomerang
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
