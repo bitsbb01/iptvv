@@ -2,8 +2,14 @@
 #EXTINF: VOPHU
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/ZgHNG3V/IMG-20211007-171157.jpg",VIỆT NAN VS TRUNG QUỐC 
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/bHK86Kd/IMG-20211007-143224.jpg",HÀN QUỐC VS SYRIA 
-https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/Xs1SB3M/Screenshot-20211007-203531.jpg",ÚC VS Oman 01h20/8/10 
+https://livecdn.fptplay.net/tvc/world-cup02_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/7r6CFsJ/Screenshot-20211007-203518.jpg",LRAQ VS LI BĂNG 21H20/7/10
+https://livecdn.fptplay.net/tvc/world-cup03_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/R2VwN9m/Screenshot-20211007-203506.jpg",Ả RẬP VS NHẬP BẢN 23H50/7/10
+https://livecdn.fptplay.net/tvc/world-cup04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/tZ91fn0/Screenshot-20211007-203453.jpg",UAE VS LRAN 23H35/7/10
+https://livecdn.fptplay.net/tvc/world-cup05_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/YWHs46S/IMG-20210818-065129.png",VTV2 HD
