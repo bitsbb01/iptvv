@@ -24,7 +24,7 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/80DkGYc/IMG-20210818-083133.png",HTV2 HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/N78H7Nc/IMG-20210818-083203.png",HTV3 HD
-http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/KGsLGFN/IMG-20210821-155117.png",KÊNH THIẾT NHI HAPPY KIDS HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/LnF642f/IMG-20210821-142746.png",KÊNH THIẾT NHI Cartoon Network 
@@ -38,7 +38,7 @@ https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://i.ibb.co/VwRSMwX/IMG-20210818-083330.png",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" group-title="HTV" tvg-logo="https://i.ibb.co/bbHQmqM/IMG-20210818-124904.png",HTV Thể Thao  HD
-https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="HTVC" tvg-logo="https://i.ibb.co/4VSK8Lx/IMG-20210818-124310.png",HTVC Ca Nhạc HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_du_lich_cuoc_song" group-title="HTVC" tvg-logo="https://i.ibb.co/9h132YT/Th-4-18-08-2021-12-44-28.png",HTVC Du Lịch & Cuộc Sống HD
@@ -56,7 +56,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.ibb.co/XbngLYq/IMG-20210818-125336.png",HTVC PLUS HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.ibb.co/k6cSC4p/IMG-20210818-155918.png",VTC1  HD
-https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.ibb.co/JrJws13/IMG-20210818-154417.png",VTC2  HD
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.ibb.co/V3KFkN4/IMG-20210818-155933.png",VTC3  HD
