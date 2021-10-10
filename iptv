@@ -189,6 +189,8 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b1200000.m3u8?token=eyJjaGFubmVsX2lkIjogImRpZW4tYmllbiIsICJybWlwIjogIjExNS43Ni41NC4yMzciLCAidXNlcl9pZCI6IDIwNjAwNDAsICJ0aW1lc3RhbXAiOiAxNjI0MTUwODA1fQ
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/yfsvkNt/IMG-20210820-095125.png",Hải Phòng HD
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TTX3761/IMG-20211007-161618.png",Hải Phòng HD+
+https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/58PZ1mt/IMG-20210820-095110.png",đăk nông HD
 https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/playlist.m3u8?iptvbyvovanloc
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/YbcqyDP/IMG-20210820-095043.png",Lào Cai HD
