@@ -22,7 +22,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/KbnqJ6b/IMG-20210818-081948.png",HTV1 HD
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/80DkGYc/IMG-20210818-083133.png",HTV2 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/N78H7Nc/IMG-20210818-083203.png",HTV3 HD
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.ibb.co/KGsLGFN/IMG-20210821-155117.png",KÊNH THIẾT NHI HAPPY KIDS HD
