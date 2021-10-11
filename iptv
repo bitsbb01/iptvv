@@ -68,7 +68,7 @@ https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.ibb.co/LrN7HBk/IMG-20210818-160031.png",VTC6 HD
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7hd" group-title="VTC" tvg-logo="https://i.ibb.co/Z81y4ST/IMG-20210818-160053.png",VTC7 - TodayTV
-https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc8hd" group-title="VTC" tvg-logo="https://i.ibb.co/VYHc0QV/IMG-20210818-160106.png",VTC8  HD
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.ibb.co/Scv1Qk6/IMG-20210818-160119.png",VTC9  HD
@@ -82,7 +82,7 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc13" group-title="VTC" tvg-logo="https://i.ibb.co/NFfrgbJ/IMG-20210818-160220.png",VTC13  HD
 https://vtc130121.cdn.vnns.io:443/VTC13/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.ibb.co/61Z4cbh/IMG-20210818-160235.png",VTC14 HD
-https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODI1MTU3MTcsICJyZXNvdXJjZV9pZCI6ICJ2dGMxNF8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjRmZDM1YmZjYjFmYThmMjg2NGQ5MTQwYjA2M2YxZGM0IiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNjAyMTE3LCAicm1pcCI6ICIyNy43OS4yMDAuMTYzIn0=
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.ibb.co/2MZm5DD/IMG-20210818-152545.png",VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Fqd8h7F/IMG-20210818-165443.png",Bình Dương 1 HD
