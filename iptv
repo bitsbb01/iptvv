@@ -339,8 +339,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/rF2s63V/IMG-20210924-171953.png",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/ZLJHQMJ/hinh-1.jpg",FOX Sports
-http://tv.datastream.iptv.uno:80/live/q8HeX0JRa21081/sTOWWQY6su1081/16034.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/VgSRs0J/1280px-Sky-Sport-1-Logo-2015-svg.png",Sky-Sport-1
+http://tv.datastream.iptv.uno/live/q8HeX0JRa21081/sTOWWQY6su1081/3436.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/PtXy4px/fox-sport-2-hd-vtvcab.png",FOX Sports 2
 http://tv.datastream.iptv.uno:80/live/q8HeX0JRa21081/sTOWWQY6su1081/16035.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/VtZVtVT/hinh-3.png",FOX Sports 3
