@@ -351,6 +351,12 @@ http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/tDZ2Xnb/Beinsports2hd.jpg",BEIN sports 2
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/VCLVB4j/images.jpg",voo sports 1
+https://is.gd/Vsport_worll1
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/bKgnr6L/images-1.jpg",V sports 1
+https://is.gd/Vsports_foobal
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/g3gS7dw/images-2.jpg",NOW sports 1
+http://laohac:360@khongsharedau.duckdns.org:9981/stream/channelnumber/113
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/pyhfnZN/IMG-20211009-170304.png",U1DO 1
 http://xcchui2.mrnova.online/live/60302_.m3u8?token=tienmedia
 #EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ibb.co/wdFR9Fp/IMG-20210906-185630.png",BOXING 1
