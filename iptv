@@ -50,9 +50,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet" group-title="HTVC" tvg-logo="https://i.ibb.co/vDLvhpZ/IMG-20210818-124825.png",HTVC Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_thuan_viet_hd" group-title="HTVC" tvg-logo="https://i.ibb.co/Zdr7XHT/IMG-20210818-124837.png",HTVC Thuần Việt HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIhttps://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8ETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.ibb.co/XbngLYq/IMG-20210818-125336.png",HTVC PLUS HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.ibb.co/XXgBJCv/IMG-20211031-180218.png",FBNC
+https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc1" group-title="VTC" tvg-logo="https://i.ibb.co/k6cSC4p/IMG-20210818-155918.png",VTC1  HD
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.ibb.co/JrJws13/IMG-20210818-154417.png",VTC2  HD
@@ -215,8 +217,10 @@ http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qr7n4nf/IMG-20210821-104428.png",Bắc Ninh HD
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-#EXTINF:-1 " ,Thai Binh#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wgGJ3Sj/IMG-20210821-104439.png",Thái Bình HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wgGJ3Sj/IMG-20210821-104439.png",Thái Bình HD
 http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/DggdK64/IMG-20211031-180231.png", Hưng yên
+https://livecdn.fptplay.net/sdc/hungyen_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2jTCCCf/IMG-20210821-155742.png", Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/jzZkzvZ/IMG-20210821-104500.png",Bắc Giang HD
