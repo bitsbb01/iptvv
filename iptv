@@ -1,7 +1,5 @@
 #EXTM3U 
 #EXTINF: VOPHUchinh
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/HzCnkHS/IMG-20211102-114343.jpg",u23 việt nam vs u23 MyanMAR 17 giờ hôm nay
-http://drfamaga5qliv.vcdn.cloud:80/vtv06/vtv06@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/1qHp0Gq/IMG-20211102-053321.png",chelsea vs Malmo 00h45/3/11
 https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/QvZvxgr/IMG-20211102-054044.png",Man Utd vs Atalanta 2h50/3/11
