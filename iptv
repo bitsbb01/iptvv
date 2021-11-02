@@ -1,13 +1,5 @@
 #EXTM3U 
 #EXTINF: VOPHUchinh
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/1qHp0Gq/IMG-20211102-053321.png",chelsea vs Malmo 00h45/3/11
-https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/QvZvxgr/IMG-20211102-054044.png",Man Utd vs Atalanta 2h50/3/11
-https://vips-livecdn.fptplay.net/hdevent/uefa08_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/J7tTQqn/IMG-20211102-054731.png",Barelona vs Dynamo kyiv 2h50/3/11
-https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/bbXx4vM/IMG-20211102-055118.png",Bayen vs Benfica 2h50/3/11
-https://vips-livecdn.fptplay.net/hdevent/uefa05_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
