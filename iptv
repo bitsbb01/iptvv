@@ -1,6 +1,15 @@
 #EXTM3U 
 #EXTINF: VOPHUchinh
 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/YpT9WQQ/Screenshot-20211103-182839.jpg",AC MILAN VS FC PORTO 00H45/4/11
+https://vips-livecdn.fptplay.net/hdevent/uefa02_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/G22LdPc/IMG-20211103-183653.jpg",LIVEROOL VS ATLETICO 2H50/4/11
+https://vips-livecdn.fptplay.net/hdevent/uefa07_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/BfbWM2h/IMG-20211103-183400.jpg",MANCHESTER CYTY VS BRYGG 2H50/411
+https://vips-livecdn.fptplay.net/hdevent/uefa06_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/GQW49PP/IMG-20211103-183015.jpg",REAL MADRID VS DONTSK 00H35/4/11
+https://vips-livecdn.fptplay.net/hdevent/uefa01_vhls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/JySCnrW/IMG-20210818-064143.png",VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ibb.co/YWHs46S/IMG-20210818-065129.png",VTV2 HD
